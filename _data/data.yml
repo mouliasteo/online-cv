@@ -29,8 +29,7 @@ sidebar:
 
       - idiom: English
         level: (Professional)
-
-      
+     
 
     interests:
       - item: Climbing
@@ -46,7 +45,7 @@ education:
     - degree: Computer Engineering & Informatics
       university: University of Patras
      
-      details: |
+     - details: |
             GPA: 6.62/10
             Graduation classification: Very Good 
             Graduation date: 31 JUL. 2019
