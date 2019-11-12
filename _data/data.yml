@@ -137,22 +137,14 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+           C. Bouras, Diles, G., and Moulias, T., 
+           “Energy savings in power control for 5G dense femtocells”,
+           in 12th International Conference on Broad-Band Wireless Computing, 
+           Communication and Applications (BWCCA - 2017), 2017, pp. 299-308
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Energy savings in power control for 5G dense femtocells
+        authors: C. Bouras, Diles, G., and Moulias, T.
+        conference: BWCCA - 2017
 
 skills:
     title: Skills &amp; Proficiency
@@ -164,15 +156,11 @@ skills:
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
-
+      
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
+     
       - name: Sketch & Photoshop
         level: 60%
 
