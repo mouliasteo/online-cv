@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mouliaste@gmail.com 
+    email: mouliasteo@gmail.com 
            moulias@ceid.upatras.gr
     phone: 6945906***
     github: mouliasteo
@@ -41,17 +41,13 @@ sidebar:
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Engineering & Informatics
+      university: University of Patras
+      time:
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - GPA: 6.62/10
+        - Graduation classification: Very Good 
+        - Graduation date: 31 JUL. 2019
 
     
 
@@ -73,19 +69,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Matlab
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: 5G Networks
         level: 98%
 
       
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Operating Systems
+        level: 82%
 
      
-      - name: Sketch & Photoshop
+      - name: 3D Graphics
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+   Copyright © 2019 Theodoros Moulias
+
+
